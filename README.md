@@ -31,6 +31,3 @@ Following the requirements documented in `OLA_Project_Requirements.docx`, the da
 3. **Modeling:** Implemented a clean Star Schema in Power BI.
 4. **Validation:** Cross-referenced all Power BI measures against SQL outputs to ensure 100% data accuracy.
 
----
-**Developed by:** Parag Taide  
-**Connect on LinkedIn:** https://www.linkedin.com/in/paragtaide/
